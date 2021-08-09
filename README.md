@@ -5,6 +5,7 @@ For more tutorials, visit our website: https://cybermals.ml
 
 
 ## Instructions
-1. clone this repo
-2. start by reading the "Godot 2D Game - Prerequisites.pdf" file
-3. the lessons are numbered in the order they should be read
+1. choose the branch that matches your version of Godot
+2. clone this repo
+3. start by reading the "Godot 2D Game - Prerequisites.pdf" file
+4. the lessons are numbered in the order they should be read
